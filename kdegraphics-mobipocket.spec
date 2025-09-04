@@ -24,6 +24,7 @@ BuildRequires:	cmake(Qt6)
 BuildRequires:	cmake(Qt6Core)
 BuildRequires:	cmake(Qt6Core5Compat)
 BuildRequires:	cmake(Qt6Gui)
+BuildRequires:	cmake(Qt6Test)
 BuildRequires:	cmake(KF6KIO)
 %rename plasma6-kdegraphics-mobipocket
 BuildSystem:	cmake
