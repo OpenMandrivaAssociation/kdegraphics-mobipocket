@@ -3,7 +3,7 @@
 %define gitbranchd %(echo %{gitbranch} |sed -e "s,/,-,g")
 Summary:	A collection of plugins to handle mobipocket files
 Name:		kdegraphics-mobipocket
-Version:	25.08.3
+Version:	25.12.0
 Release:	%{?git:0.%{git}.}1
 License:	GPLv2+
 Group:		Graphical desktop/KDE
